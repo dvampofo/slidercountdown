@@ -38,7 +38,7 @@ body #image-background {
 /*  When screen size is less than 600px, change h1 font size */
 @media screen and (max-width:600px){
   .content2 h1 {
-     font-size: 15vw;
+     font-size: 1vw;
   }
 
 }
