@@ -43,11 +43,29 @@ body #image-background {
 
 }
 
-@media screen and (max-width:600px){
+/*  When screen size is less than 600px, change h1 font size */
+@media screen and (min-width:500px){
+  .content2 h1 {
+     font-size: 5vw;
+  }
+}
+
+/* When mobile device is in landscape mode */
+@media screen and (max-width:325px){
+  .row p, span ul{
+     font-size: 2.5vw;
+     position: absolute;
+     text-align: center;
+  }
+}
+
+/* Fix for iPhone 5/5s */
+@media screen and (max-width: 320px){
   .row p, span ul{
      font-size: 4vw;
+     position: absolute;
+     text-align: center;
   }
-
 }
 
 body #video-background {
