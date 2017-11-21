@@ -1,7 +1,7 @@
 # TTC SLIDESHOW COUNTDOWN.
 York University Subway Station opening on **DECEMBER 17, 2017**.
 
-![YUSUBWAY](https://github.com/dvampofo/countdown/blob/master/assets/images/countdown_entr.png?raw=true)
+![YUSUBWAY](https://github.com/dvampofo/slidercountdown/blob/master/assets/images/entrancephoto.png?raw=true)
 
 This TTC Countdown Timer was made with HTML, CSS3, Javascript, Bootstrap and more.
 
