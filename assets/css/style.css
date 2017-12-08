@@ -492,7 +492,8 @@ a.website:hover {
 
 .counter h2 {
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 700; /*RED FONT*/
+  color: #CC0000;
 }
 
 footer {
